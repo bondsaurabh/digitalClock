@@ -1,0 +1,14 @@
+
+#clock-background {
+    /* background-image: url('abc.jpg');
+    background-repeat: no-repeat; */
+    background-color: lightblue;
+}
+
+h1 {
+    color: red;
+    font-size: 80px;
+    left: 40%;
+    top: 40%;
+    position: absolute;
+}
